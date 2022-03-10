@@ -6,4 +6,3 @@ Abstract and Concrete classes
 2)Object
 3)Inheritance
 4)Polymorphism
-5)
